@@ -1,5 +1,9 @@
 html  {
-  min-height: 100%
+  min-height: 100%;
 }
 body  {
+}
+nav ul li {
+  width: 25%;
+  float: left;
 }
