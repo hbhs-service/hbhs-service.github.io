@@ -1,11 +1,21 @@
 html  {
   min-height: 100%;
 }
+header  {
+  background-color: #900000;
+}
+nav{
+  background-color: #C2A457;
+}
 body  {
+  
 }
 nav ul li {
   width: 25%;
   float: left;
   list-style-type: none;
   text-align: center;
+}
+footer {
+  backgroud-color: #4A4748;
 }
