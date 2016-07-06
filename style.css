@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo');
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 html  {
   min-height: 100%;
 }
 header  {
   background-color: #900000;
+  font-family: Arimo;
 }
 nav{
+  font-family: Arimo;
 }
 body  {
   
