@@ -5,7 +5,6 @@ header  {
   background-color: #900000;
 }
 nav{
-  background-color: #C2A457;
 }
 body  {
   
@@ -15,6 +14,7 @@ nav ul li {
   float: left;
   list-style-type: none;
   text-align: center;
+  background-color: #C2A457;
 }
 footer {
   background-color: #4A4748;
