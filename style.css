@@ -6,7 +6,6 @@ html  {
 
 header  {
   background-color: #900000;
-  text-align: center;
 }
 
 header a  {
@@ -14,6 +13,7 @@ header a  {
   font-size: 24pt;
   font-weight: bold;
   color: #000;
+  text-align: center;
 }
 
 nav{
