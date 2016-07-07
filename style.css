@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
 html  {
   min-height: 100%;
 }
@@ -9,9 +9,11 @@ header  {
   font-family: Arimo;
   font-size: 24pt;
   font-weight: bold;
+  text-align: center;
 }
 nav{
   font-family: Arimo;
+  font-size: 14pt;
 }
 nav ul li {
   width: 25%;
@@ -22,10 +24,24 @@ nav ul li {
   margin: 0px;
 }
 body  {
-  font-family: Open Sans;
+  
 }
 h1  {
   font-family: Didact Gothic;
+  font-size: 14pt;
+}
+h2  {
+  font-family: Droid Sans;
+  font-size: 13pt;
+}
+h3  {
+  font-family: Droid Sans;
+  font-size: 11pt;
+  font-weight: bold;
+}
+p  {
+  font-family: Droid Sans;
+  font-size: 11pt;
 }
 footer {
   background-color: #4A4748;
