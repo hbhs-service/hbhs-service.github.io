@@ -35,6 +35,7 @@ body  {
 h1  {
   font-family: Didact Gothic;
   font-size: 14pt;
+  text-transform: uppercase;
 }
 
 h2  {
