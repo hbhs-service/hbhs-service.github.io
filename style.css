@@ -10,6 +10,7 @@ header  {
   font-size: 24pt;
   font-weight: bold;
   text-align: center;
+  color: #000;
 }
 
 nav{
@@ -47,7 +48,7 @@ h3  {
   font-weight: bold;
 }
 
-a, p  {
+body a, p  {
   font-family: Open Sans;
   font-size: 11pt;
   color: #000;
