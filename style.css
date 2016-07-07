@@ -21,7 +21,6 @@ nav a{
   font-family: Arimo, sans-serif;
   font-size: 14pt;
   text-decoration: none;
-  text-align: center;
 }
 
 nav ul li {
@@ -30,6 +29,7 @@ nav ul li {
   list-style-type: none;
   background-color: #C2A457;
   margin: 0px;
+  text-align: center;
 }
 
 body  {
