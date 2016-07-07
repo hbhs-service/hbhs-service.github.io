@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
 html  {
   min-height: 100%;
 }
+
 header  {
   background-color: #900000;
   font-family: Arimo;
@@ -11,10 +13,12 @@ header  {
   font-weight: bold;
   text-align: center;
 }
+
 nav{
   font-family: Arimo;
   font-size: 14pt;
 }
+
 nav ul li {
   width: 25%;
   float: left;
@@ -23,27 +27,34 @@ nav ul li {
   background-color: #C2A457;
   margin: 0px;
 }
+
 body  {
   
 }
+
 h1  {
   font-family: Didact Gothic;
   font-size: 14pt;
 }
+
 h2  {
   font-family: Droid Sans;
   font-size: 13pt;
 }
+
 h3  {
   font-family: Droid Sans;
   font-size: 11pt;
   font-weight: bold;
 }
+
 a, p  {
   font-family: Droid Sans;
   font-size: 11pt;
   color: #000;
 }
+
 footer {
   background-color: #4A4748;
+  font-family: Droid Sans;
 }
