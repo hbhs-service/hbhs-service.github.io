@@ -6,6 +6,10 @@ html  {
 
 header  {
   background-color: #900000;
+  
+}
+
+header p  {
   font-family: Arimo;
   font-size: 24pt;
   font-weight: bold;
@@ -48,7 +52,7 @@ h3  {
   font-weight: bold;
 }
 
-body a, p  {
+a, p  {
   font-family: Open Sans;
   font-size: 11pt;
   color: #000;
