@@ -13,12 +13,11 @@ header a  {
   font-family: Arimo;
   font-size: 24pt;
   font-weight: bold;
-  text-align: right;
   color: #000;
 }
 
 nav{
-  font-family: Arimo;
+  font-family: Arimo, sans-serif;
   font-size: 14pt;
 }
 
@@ -36,24 +35,24 @@ body  {
 }
 
 h1  {
-  font-family: Didact Gothic;
+  font-family: Didact Gothic, sans-serif;
   font-size: 14pt;
   text-transform: uppercase;
 }
 
 h2  {
-  font-family: Open Sans;
+  font-family: Open Sans, sans-serif;
   font-size: 13pt;
 }
 
 h3  {
-  font-family: Open Sans;
+  font-family: Open Sans, sans-serif;
   font-size: 11pt;
   font-weight: bold;
 }
 
 a, p  {
-  font-family: Open Sans;
+  font-family: Open Sans, sans-serif;
   font-size: 11pt;
   color: #000;
 }
