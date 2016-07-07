@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Arimo');
-@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-
+@import url('https://fonts.googleapis.com/css?family=Arimo|Didact+Gothic|Open+Sans');
 html  {
   min-height: 100%;
 }
