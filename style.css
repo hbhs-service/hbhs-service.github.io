@@ -39,9 +39,10 @@ h3  {
   font-size: 11pt;
   font-weight: bold;
 }
-p  {
+a, p  {
   font-family: Droid Sans;
   font-size: 11pt;
+  color: #000;
 }
 footer {
   background-color: #4A4748;
