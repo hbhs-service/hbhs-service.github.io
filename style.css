@@ -21,6 +21,8 @@ header a  {
 nav{
   font-family: Arimo, sans-serif;
   font-size: 14pt;
+  margin: 0;
+  padding: 0;
 }
 
 nav ul li {
