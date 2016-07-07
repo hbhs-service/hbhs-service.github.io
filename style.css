@@ -6,14 +6,13 @@ html  {
 
 header  {
   background-color: #900000;
-  
 }
 
 header a  {
   font-family: Arimo;
   font-size: 24pt;
   font-weight: bold;
-  text-align: center;
+  text-align: right;
   color: #000;
 }
 
