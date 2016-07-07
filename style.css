@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arimo');
 @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
-@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
 
 html  {
   min-height: 100%;
@@ -38,23 +38,22 @@ h1  {
 }
 
 h2  {
-  font-family: Droid Sans;
+  font-family: Open Sans;
   font-size: 13pt;
 }
 
 h3  {
-  font-family: Droid Sans;
+  font-family: Open Sans;
   font-size: 11pt;
   font-weight: bold;
 }
 
 a, p  {
-  font-family: Droid Sans;
+  font-family: Open Sans;
   font-size: 11pt;
   color: #000;
 }
 
 footer {
   background-color: #4A4748;
-  font-family: Droid Sans;
 }
