@@ -20,16 +20,16 @@ header a  {
 nav{
   font-family: Arimo, sans-serif;
   font-size: 14pt;
+  text-decoration: none;
+  text-align: center;
 }
 
 nav ul li {
   width: 25%;
   float: left;
   list-style-type: none;
-  text-align: center;
   background-color: #C2A457;
   margin: 0px;
-  text-decoration: none;
 }
 
 body  {
