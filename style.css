@@ -16,12 +16,14 @@ header a  {
   text-decoration: none;
 }
 
-nav a{
+nav a {
   font-family: Arimo, sans-serif;
   font-size: 14pt;
   text-decoration: none;
 }
-
+nav a:hover {
+  background-color: C9AE6A;
+}
 nav ul li {
   width: 25%;
   float: left;
