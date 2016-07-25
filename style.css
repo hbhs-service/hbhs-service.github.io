@@ -63,4 +63,7 @@ a, p  {
 
 footer {
   background-color: #4A4748;
+  position: fixed;
+  bottom: 0;
+  left: 0;
 }
