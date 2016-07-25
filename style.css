@@ -2,6 +2,7 @@
 
 html  {
   min-height: 100%;
+  page width: 100%;
 }
 
 header  {
@@ -66,5 +67,4 @@ footer {
   position: fixed;
   bottom: 0;
   left: 0;
-  width: 100%;
 }
