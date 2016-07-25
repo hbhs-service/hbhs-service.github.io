@@ -21,9 +21,6 @@ nav a {
   font-size: 14pt;
   text-decoration: none;
 }
-nav a:hover {
-  background-color: C9AE6A;
-}
 nav ul li {
   width: 25%;
   float: left;
@@ -31,6 +28,10 @@ nav ul li {
   background-color: #C2A457;
   margin: 0px;
   text-align: center;
+}
+
+nav ul li:hover {
+  background-color: C9AE6A;
 }
 
 body  {
