@@ -17,11 +17,6 @@ header a  {
   text-decoration: none;
 }
 
-nav a {
-  font-family: Arimo, sans-serif;
-  font-size: 14pt;
-  text-decoration: none;
-}
 nav ul li {
   width: 25%;
   float: left;
@@ -29,6 +24,12 @@ nav ul li {
   background-color: #C2A457;
   margin: 0px;
   text-align: center;
+}
+
+nav a {
+  font-family: Arimo, sans-serif;
+  font-size: 14pt;
+  text-decoration: none;
 }
 
 nav ul li:hover {
