@@ -26,7 +26,9 @@ nav ul li {
   list-style-type: none;
   background-color: #C2A457;
   margin: 0px;
+  display: block;
   text-align: center;
+  flex-basis: 25%;
 }
 
 nav ul li:hover {
