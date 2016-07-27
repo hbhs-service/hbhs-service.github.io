@@ -16,7 +16,10 @@ header a  {
   color: #000;
   text-decoration: none;
 }
-
+nav ul	{
+	display: flex;
+	padding: 0;
+}
 nav ul li {
   width: 25%;
   float: left;
@@ -24,21 +27,18 @@ nav ul li {
   background-color: #C2A457;
   margin: 0px;
   text-align: center;
+  display: block;
+  flex-basis: 20%;
+}
+
+nav ul li:hover {
+  background-color: C9AE6A;
 }
 
 nav a {
   font-family: Arimo, sans-serif;
   font-size: 14pt;
   text-decoration: none;
-}
-@media all and (max-width: 600px) {
-	#wrapper	{
-		width: 100%;
-	}
-}
-
-nav ul li:hover {
-  background-color: C9AE6A;
 }
 
 body  {
@@ -62,7 +62,7 @@ h3  {
   font-weight: bold;
 }
 
-a, p  {
+body a, p  {
   font-family: Open Sans, sans-serif;
   font-size: 11pt;
   color: #000;
@@ -75,22 +75,17 @@ footer {
   left: 0;
 }
 
-@media all and (max-width: 600px) 
-{
-	html	
-	{
+@media all and (max-width: 600px) {
+	html	{
 		width: 100%;
 	}
 }
-@media all and (max-width: 550px) 
-{
-	nav ul 
-	{
+@media all and (max-width: 550px) {
+	nav ul 	{
 		flex-direction: column;
 	}
 	
-	nav ul li a 
-	{
+	nav ul li a {
 		text-align: center;
 	}
 }
