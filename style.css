@@ -32,7 +32,7 @@ nav ul li {
   text-align: center;
 }
 
-nav ul li:hover {
+nav ul li:hover, nav ul li:active {
   background-color: C9AE6A;
 }
 
