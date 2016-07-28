@@ -45,6 +45,7 @@ nav ul li:hover, nav ul li:active {
 
 nav ul li a:visited	{
 	text-decoration: none;
+	color: #000;
 }
 
 nav a {
