@@ -9,6 +9,7 @@ header  {
   background-color: #900000;
   text-align: center;
   height: 10%;
+  text-transform: uppercase;
 }
 
 header a, header a:visited  {
@@ -16,6 +17,7 @@ header a, header a:visited  {
   font-size: 24pt;
   color: #000;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
 header a:hover	{
@@ -31,6 +33,7 @@ nav ul li {
   float: left;
   list-style-type: none;
   background-color: #C2A457;
+  text-transform: uppercase;
   margin: 0px;
   display: block;
   text-align: center;
@@ -38,11 +41,13 @@ nav ul li {
 
 nav ul li a:hover, nav ul li a:active {
   background-color: C9AE6A;
+  text-transform: uppercase;
   color: #000;
 }
 
 nav ul li a:visited	{
 	text-decoration: none;
+	text-transform: uppercase;
 	color: #000;
 }
 
