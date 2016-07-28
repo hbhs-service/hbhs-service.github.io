@@ -34,6 +34,8 @@ nav ul li {
   margin: 0px;
   display: block;
   text-align: center;
+  border-style: solid;
+  border-width: 5px 2.5px 5px 2.5px;
 }
 
 nav ul li:hover, nav ul li:active {
