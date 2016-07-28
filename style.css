@@ -11,11 +11,15 @@ header  {
   height: 10%;
 }
 
-header a  {
+header a, header a:visited  {
   font-family: Arimo;
   font-size: 24pt;
   color: #000;
   text-decoration: none;
+}
+
+header a:hover	{
+	
 }
 
 nav ul	{
@@ -36,19 +40,18 @@ nav ul li:hover, nav ul li:active {
   background-color: C9AE6A;
 }
 
+nav ul li a:visited	{
+	text-decoration: none;
+}
+
 nav a {
   font-family: Arimo, sans-serif;
   font-size: 14pt;
   text-decoration: none;
 }
 
-a:visited	{
-	text-decoration: none;
-}
 
-a:active	{
-	text-decoration: none;
-}
+
 body  {
   
 }
