@@ -10,6 +10,7 @@ header  {
   text-align: center;
   height: 10%;
   text-transform: uppercase;
+  vertical-align: middle;
 }
 
 header a, header a:visited  {
@@ -33,6 +34,7 @@ nav ul li {
   float: left;
   list-style-type: none;
   background-color: #C2A457;
+  color: #000;
   text-transform: uppercase;
   margin: 0px;
   display: block;
@@ -40,7 +42,7 @@ nav ul li {
 }
 
 nav ul li a:hover, nav ul li a:active {
-  background-color: C9AE6A;
+  background-color: #C9AE6A;
   text-transform: uppercase;
   color: #000;
 }
