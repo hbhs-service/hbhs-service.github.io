@@ -41,8 +41,8 @@ nav ul li {
   text-align: center;
 }
 
-nav ul li a:hover, nav ul li a:active {
-  background-color: C9AE6A;
+nav ul li a:hover{
+  background-color: #C9AE6A;
   text-transform: uppercase;
   color: #000;
 }
