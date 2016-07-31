@@ -22,6 +22,7 @@ header a, header a:visited  {
   color: #000;
   text-decoration: none;
   text-transform: uppercase;
+  display: table-cell;
   vertical-align: middle;
 }
 
