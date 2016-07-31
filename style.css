@@ -22,7 +22,6 @@ header a, header a:visited  {
 
 nav ul	{
 	padding: 0;
-	display: flex;
 }
 
 nav ul li {
