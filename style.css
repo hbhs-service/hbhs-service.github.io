@@ -10,6 +10,10 @@ header  {
   text-align: center;
   height: 10%;
   text-transform: uppercase;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
 }
 
 header a, header a:visited  {
@@ -38,7 +42,6 @@ nav ul li {
   border-width: 2px;
   border-style: solid;
   border-color: #000;
-  flex-basis: 25%;
 }
 
 nav ul li:hover	{
