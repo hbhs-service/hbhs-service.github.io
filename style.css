@@ -25,7 +25,7 @@ header a, header a:visited  {
 }
 
 nav ul	{
-	padding: 0;
+  padding: 0;
 }
 
 nav ul li {
@@ -51,9 +51,9 @@ nav ul li:hover	{
 }
 
 nav ul li a:visited	{
-	text-decoration: none;
-	text-transform: uppercase;
-	color: #000;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #000;
 }
 
 nav a {
