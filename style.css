@@ -85,6 +85,14 @@ section a, p  {
   color: #000;
 }
 
+iframe	{
+	 style="border: 0";
+	 width="800";
+	 height="600";
+	 frameborder="0";
+	 scrolling="no";
+}
+
 footer {
   background-color: #4A4748;
   position: fixed;
@@ -107,5 +115,6 @@ footer {
 	}
 	nav ul li a {
 		text-align: center;
+		font-size: 14pt;
 	}
 }
