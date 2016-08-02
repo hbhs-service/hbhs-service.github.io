@@ -26,19 +26,16 @@ header a, header a:visited  {
 
 nav ul	{
   padding: 0;
-  display: flex;
+  list-style-type: none;
+  margin: 0px;
 }
 
 nav ul li {
   width: 25%;
-  flex-basis: 25%;
   float: left;
-  list-style-type: none;
   background-color: #C2A457;
   color: #000;
   text-transform: uppercase;
-  margin: 0px;
-  display: block;
   text-align: center;
   box-sizing: border-box;
   border-width: 2px;
