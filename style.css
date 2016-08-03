@@ -26,16 +26,22 @@ header a, header a:visited  {
   text-transform: uppercase;
 }
 
+nav	{
+	margin: 0;
+	
+}
+
 nav ul	{
   padding: 0;
   list-style-type: none;
   margin: 0px;
+  display: flex;
+  justify-content: space-around;
 }
 
 nav ul li {
   width: 25%;
   float: left;
-  display: flex;
   background-color: #C2A457;
   color: #000;
   text-transform: uppercase;
