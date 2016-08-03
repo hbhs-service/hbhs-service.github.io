@@ -102,7 +102,7 @@ footer {
   border-color: #000;
 }
 
-@media all and (max-width: 600px) {
+@media all and (max-width: 720px) {
 	html	{
 		width: 100%;
 	}
@@ -114,7 +114,9 @@ footer {
 	header a	{
 		font-size: 18pt;
 	}
-	nav ul li a {
+	nav ul li {
 		text-align: center;
+		width: 100%;
+		float: none;
 	}
 }
