@@ -10,7 +10,7 @@ header  {
   text-align: center;
   display: block;
   margin: 0;
-  padding: 2px;
+  padding: 3px;
   text-transform: uppercase;
   box-sizing: border-box;
   border-width: 2px;
@@ -95,7 +95,7 @@ iframe	{
 footer {
   background-color: #4A4748;
   position: fixed;
-  padding: 5px;
+  padding: 2px;
   bottom: 0;
   width: 100%;
   box-sizing: border-box;
