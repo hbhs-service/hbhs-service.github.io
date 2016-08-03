@@ -9,7 +9,8 @@ header  {
   background-color: #900000;
   text-align: center;
   display: block;
-  height: 10%;
+  margin: 0;
+  padding: 2px;
   text-transform: uppercase;
   box-sizing: border-box;
   border-width: 2px;
