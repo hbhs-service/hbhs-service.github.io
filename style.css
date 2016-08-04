@@ -35,20 +35,20 @@ nav ul	{
   list-style-type: none;
   margin: 0px;
   display: flex;
+  background-color: #C2A457;
   justify-content: space-around;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
 }
 
 nav ul li {
   width: 25%;
   float: left;
-  background-color: #C2A457;
   color: #000;
   text-transform: uppercase;
   text-align: center;
-  box-sizing: border-box;
-  border-width: 2px;
-  border-style: solid;
-  border-color: #000;
 }
 
 nav ul li:hover	{
@@ -102,9 +102,6 @@ footer {
   background-color: #4A4748;
   position: fixed;
   bottom: 1;
-  margin: 0;
-  padding: 0;
-  float: left;
   width: 100%;
   box-sizing: border-box;
   border-width: 2px;
