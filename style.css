@@ -101,8 +101,10 @@ iframe	{
 footer {
   background-color: #4A4748;
   position: fixed;
-  bottom: 0;
-  width: 103%;
+  bottom: 1;
+  margin: 0;
+  padding: 0;
+  width: 100%;
   box-sizing: border-box;
   border-width: 2px;
   border-style: solid;
