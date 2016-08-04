@@ -37,18 +37,19 @@ nav ul	{
   display: flex;
   background-color: #C2A457;
   justify-content: space-around;
-  box-sizing: border-box;
-  border-width: 2px;
-  border-style: solid;
-  border-color: #000;
 }
 
 nav ul li {
   width: 25%;
+  display: list-item;
   float: left;
   color: #000;
   text-transform: uppercase;
   text-align: center;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
 }
 
 nav ul li:hover	{
