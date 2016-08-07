@@ -64,6 +64,10 @@ nav a {
   width: 25%;
   font-size: 14pt;
   text-decoration: none;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
 }
 
 h1  {
