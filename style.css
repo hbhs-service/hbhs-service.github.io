@@ -47,7 +47,7 @@ nav ul li {
 	color: #000;
 }
 
-nav ul li:hover	{
+nav a:hover	{
   background-color: #C9AE6A;
   text-transform: uppercase;
   color: #000;
