@@ -45,10 +45,6 @@ nav ul li {
 	margin: 0;
 	text-align: center;
 	color: #000;
-  box-sizing: border-box;
-  border-width: 2px;
-  border-style: solid;
-  border-color: #000;
 }
 
 nav ul li:hover	{
@@ -68,6 +64,10 @@ nav a {
   width: 25%;
   font-size: 14pt;
   text-decoration: none;
+  box-sizing: border-box;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #000;
 }
 
 h1  {
