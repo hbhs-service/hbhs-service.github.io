@@ -110,6 +110,11 @@ section iframe	{
 	border-style: none;
 }
 
+img	{
+	width: 100px;
+	float: right;
+}
+
 footer {
   background-color: #4A4748;
   position: fixed;
