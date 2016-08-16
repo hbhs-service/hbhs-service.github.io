@@ -102,8 +102,10 @@ section ul li	{
 }
 
 iframe	{
-	width: 100%;
-	object-fill: contain;
+	position: relative;
+  padding-bottom: 75%;
+  height: 0;
+  overflow: hidden;
 	border-style: none;
 }
 
