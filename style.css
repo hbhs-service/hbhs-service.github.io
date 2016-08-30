@@ -70,6 +70,9 @@ nav a {
   border-color: #000;
 }
 
+main	{
+	width: 80%;
+}
 h1  {
   font-family: Didact Gothic, sans-serif;
   font-size: 14pt;
@@ -114,17 +117,6 @@ img	{
 	width: 200px;
 	float: right;
 	padding: 5px;
-}
-
-footer {
-  background-color: #4A4748;
-  position: fixed;
-  bottom: 1;
-  width: 100%;
-  box-sizing: border-box;
-  border-width: 2px;
-  border-style: solid;
-  border-color: #000;
 }
 
 @media all and (max-width: 720px) {
