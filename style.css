@@ -77,7 +77,8 @@ body	{
 
 main	{
 	width: 90%;
-	margin: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
 	background-color: #FFF;
 }
 h1  {
