@@ -9,7 +9,6 @@ header  {
   background: #900000;
   text-align: center;
   display: block;
-  margin: 0;
   padding: 3px;
   text-transform: uppercase;
   box-sizing: border-box;
@@ -72,11 +71,12 @@ nav a {
 
 body	{
 	background-color: #4a4748;
+	margin: 0;
 }
 
 main	{
 	width: 90%;
-	margin: auto;
+	margin: 0;
 	background-color: #FFF;
 }
 h1  {
