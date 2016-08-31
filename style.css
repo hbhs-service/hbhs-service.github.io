@@ -29,7 +29,7 @@ header a, header a:visited  {
 nav	{
 	margin: 0;
 	display: block;
-  background-color: #C2A457;
+	background-color: #C2A457;
 }
 
 nav ul	{
@@ -71,7 +71,6 @@ nav a {
 }
 
 body	{
-	background-color: #4a4748;
 	margin: 0;
 }
 
@@ -80,7 +79,6 @@ main	{
 	margin: 0;
 	margin-left: 5%;
 	margin-right: 5%;
-	background-color: #FFF;
 }
 h1  {
   font-family: Didact Gothic, sans-serif;
