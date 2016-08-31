@@ -6,7 +6,8 @@ html  {
 }
 
 header  {
-  background-color: #900000;
+  background: #900000;
+  background: linear-gradient (#900000, #950000);
   text-align: center;
   display: block;
   margin: 0;
