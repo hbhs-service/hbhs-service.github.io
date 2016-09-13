@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Arimo|Didact+Gothic|Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Arimo|Hind|Open+Sans');
 
 html  {
   min-height: 100%;
@@ -81,7 +81,7 @@ main	{
 	margin-right: 5%;
 }
 h1  {
-  font-family: Didact Gothic, sans-serif;
+  font-family: Hind, sans-serif;
   font-size: 14pt;
   text-transform: uppercase;
 }
